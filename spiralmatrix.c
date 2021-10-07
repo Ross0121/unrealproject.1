@@ -13,7 +13,7 @@ int main()
   }
   else
   {
-  printf("Invalid input.");
+  printf("Invalid input try again baka.");
   }
 
   return 0;
